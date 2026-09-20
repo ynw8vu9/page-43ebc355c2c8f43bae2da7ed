@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://flahfwv.cn/sitemap.xml
